@@ -1,6 +1,6 @@
 # Codex's Useful Utilities
 
-Occasionally, when working on labs, CTFs, and boxes, I encounter tasks that are annoying enough to warrant simple utilities. This repository serves as a place to collate all these bits and pieces.
+Occasionally, when working on labs, CTFs, and boxes, I encounter tasks that are annoying enough to warrant simple utilities. This repository serves as a place to collate all these bits and pieces. Will be updated as I write more utils/dig up more utils I wrote in the past
 
 ## Table of Contents
 
