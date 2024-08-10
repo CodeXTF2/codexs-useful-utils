@@ -4,6 +4,6 @@ Occasionally, when working on labs, CTFs, and boxes, I encounter tasks that are 
 
 ## Table of Contents
 
-- **[Find-CShares.ps1](Find-CShares.ps1)**: A simple PowerShell script that lists boxes where you can access the `c$` share.
-- **[GenerateHostsFile.ps1](GenerateHostsFile.ps1)**: A simple PowerShell script that resolves hostnames and generates a hosts file.
+- **[Find-CShares.ps1](powershell/Find-CShares.ps1)**: A simple PowerShell script that lists boxes where you can access the `c$` share.
+- **[GenerateHostsFile.ps1](powershell/GenerateHostsFile.ps1)**: A simple PowerShell script that resolves hostnames and generates a hosts file.
 - **[Explore-DomainShares.ps1](Explore-DomainShares.ps1)**: A simple PowerShell script to crawl accessible network shares on a domain.
